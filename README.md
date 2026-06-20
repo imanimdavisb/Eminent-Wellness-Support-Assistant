@@ -1,4 +1,7 @@
 # Eminent Wellness Support Assistant
+## Demo
+
+![Program Demo](program-demo.png)
 
 ## Overview
 
