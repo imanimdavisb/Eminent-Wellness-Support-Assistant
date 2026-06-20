@@ -1,3 +1,6 @@
+## Demo
+
+![Eminent Wellness Support Assistant](wellness_support_demo.png)
 # Eminent Wellness Support Assistant
 
 ## Overview
